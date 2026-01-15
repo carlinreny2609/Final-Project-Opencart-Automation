@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-15T16:46:34 IST" name="Suite" finished-at="2026-01-15T16:49:04 IST" duration-ms="149764">
+    <groups>
+    </groups>
+    <test started-at="2026-01-15T16:46:34 IST" name="Test" finished-at="2026-01-15T16:49:04 IST" duration-ms="149764">
+      <class name="FinalProject.ProductComparisontest">
+        <test-method signature="ProductComparison()[pri:7, instance:FinalProject.ProductComparisontest@65fb9ffc]" started-at="2026-01-15T16:48:43 IST" name="ProductComparison" finished-at="2026-01-15T16:49:04 IST" duration-ms="21396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductComparison -->
+      </class> <!-- FinalProject.ProductComparisontest -->
+      <class name="FinalProject.Searchtest">
+        <test-method signature="search()[pri:6, instance:FinalProject.Searchtest@4802796d]" started-at="2026-01-15T16:47:18 IST" name="search" finished-at="2026-01-15T16:47:52 IST" duration-ms="34139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- FinalProject.Searchtest -->
+      <class name="FinalProject.user_registrationtest">
+        <test-method signature="user_registration()[pri:1, instance:FinalProject.user_registrationtest@34123d65]" started-at="2026-01-15T16:47:52 IST" name="user_registration" finished-at="2026-01-15T16:48:01 IST" duration-ms="8747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_registration -->
+      </class> <!-- FinalProject.user_registrationtest -->
+      <class name="FinalProject.Wishlisttest">
+        <test-method signature="Wishlist()[pri:5, instance:FinalProject.Wishlisttest@59474f18]" started-at="2026-01-15T16:48:01 IST" name="Wishlist" finished-at="2026-01-15T16:48:43 IST" duration-ms="41837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Wishlist -->
+      </class> <!-- FinalProject.Wishlisttest -->
+      <class name="FinalProject.order_history">
+        <test-method signature="Order_History()[pri:4, instance:FinalProject.order_history@71d44a3]" started-at="2026-01-15T16:46:43 IST" name="Order_History" finished-at="2026-01-15T16:46:57 IST" duration-ms="14847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Order_History -->
+      </class> <!-- FinalProject.order_history -->
+      <class name="FinalProject.Logintest">
+        <test-method signature="Login()[pri:2, instance:FinalProject.Logintest@3270d194]" started-at="2026-01-15T16:46:34 IST" name="Login" finished-at="2026-01-15T16:46:43 IST" duration-ms="8407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- FinalProject.Logintest -->
+      <class name="FinalProject.Addproducttest">
+        <test-method signature="Addproduct()[pri:3, instance:FinalProject.Addproducttest@7b98f307]" started-at="2026-01-15T16:46:57 IST" name="Addproduct" finished-at="2026-01-15T16:47:18 IST" duration-ms="20354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addproduct -->
+      </class> <!-- FinalProject.Addproducttest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
