@@ -4,37 +4,23 @@ OpenCart is a free open source e-commerce platform for online merchants.
 This project aims to build a automated testing Solution using Selenium and TestNG automation,
 improving efficiency and reducing repetitive code.
 
+Demo Site URL: https://www.opencart.com/index.php?route=cms/demo
+
 **Test Scope**
-**- Modules Tested:**
+**Following Features Automated**
 
 - User Registration
 - Login
 - Product Search
 - Product Comparison
-- Wishlist
+- Add to Wishlist
 - Order Placement
-- Automation Tool: Selenium WebDriver (Java),TestNG
-- Framework: [TestNG, Java,Selenium ]
-- Browsers Covered: Chrome, Firefox, Edge,Safari
-
-
-**Key Achievements:**
-
-- Improve test automation speed by 30%
-- Reduce duplicate code across test suites
-- Provide reusable test automation methods for
--  User registration
--  Login Successfully
--  Adding a product successfully,
--  Comparing Product successfully,
--  Searching a Product successfully,
--  Wishlisting a Product successfully
--  Placing A order successfully
+- Browsers Covered: Chrome,Edge
   
 **Resources**
 
 - Tools and technologies:
-- Tools: Java, Selenium, GitHub,TestNG
+- Tools: Java, Selenium, GitHub,TestNG,Eclipse
 - Team: 1 tester, 1 reviewer
 
   
