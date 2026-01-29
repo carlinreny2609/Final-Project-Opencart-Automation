@@ -1,4 +1,4 @@
-**Project Name: Automated Test Utility for Open Cart Website**
+**Project Name: Automated Test Scripts for Open Cart Website**
 
 OpenCart is a free open source e-commerce platform for online merchants. 
 This project aims to build a automated testing Solution using Selenium and TestNG automation,
