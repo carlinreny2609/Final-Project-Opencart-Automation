@@ -4,7 +4,7 @@ OpenCart is a free open source e-commerce platform for online merchants.
 This project aims to build a automated testing Solution using Selenium and TestNG automation,
 improving efficiency and reducing repetitive code.
 
-Demo Site URL: https://www.opencart.com/index.php?route=cms/demo
+Demo Site URL: https://awesomeqa.com/ui/index.php?route=common/home
 
 **Test Scope**
 **Following Features Automated**
